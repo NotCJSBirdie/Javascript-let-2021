@@ -1,0 +1,20 @@
+/* This is an external CSS File */
+
+body {
+  margin: 0;
+  background-color: springgreen;
+}
+
+.div1 {
+  background-color: red;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.div2 {
+  background-color: slategray;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  text-align: center;
+}
